@@ -1,0 +1,3 @@
+https://example.com/login SYNTHETIC_USER:SYNTHETIC_PASSWORD
+https://sub.example.org:8080/path?q=demo|SYNTHETIC_USER|SYNTHETIC_PASSWORD
+android://SYNTHETIC_TOKEN@com.example.app/:credentials SYNTHETIC_USER:SYNTHETIC_PASSWORD

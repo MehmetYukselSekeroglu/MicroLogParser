@@ -1,0 +1,46 @@
+# Python and editor state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.vscode/
+.idea/
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+*.ini
+config/
+.aws/
+.codex/
+.agents/
+*.pem
+*.key
+*.p12
+*.pfx
+# Builds and generated datasets
+build/
+dist/
+*.o
+*.so
+*.exe
+*.log
+*.txt
+!CMakeLists.txt
+!requirements.txt
+*.sql
+!schema.sql
+*.csv
+*.json
+*.jsonl
+*.ulp
+*.combo
+*.dump
+*.backup
+*.db
+*.sqlite*
+*.tar.gz
+data/
+exports/
+.DS_Store
